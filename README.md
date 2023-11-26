@@ -97,7 +97,15 @@ A persistent resources list.
 ### R Packages
 
  - [containerit](https://github.com/o2r-project/containerit) - containerit packages R script/session/workspace and all dependencies as a Docker container by automagically generating a suitable Dockerfile. The package’s website is https://o2r.info/containerit/.
- 
+
+## Books
+
+ - [Computational Genomics with R](https://compgenomr.github.io/book/)
+ - [Introduction to data science](https://rafalab.dfci.harvard.edu/dslivro/)
+ - [Introduction to Bioinformatics and Computational Biology](https://liulab-dfci.github.io/bioinfo-combio/)
+ - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+ - [Introduction - An Introduction to Snakemake for Bioinformatics](https://farm.cse.ucdavis.edu/~ctbrown/2023-snakemake-book-draft/)
+
 ## Web Apps
 
  - [ARCHS4](https://maayanlab.cloud/archs4/index.html) - ARCHS4 provides access to gene counts from HiSeq 2000, HiSeq 2500 and NextSeq 500 platforms for human and mouse experiments from GEO and SRA.
