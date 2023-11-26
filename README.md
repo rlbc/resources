@@ -9,6 +9,7 @@ A persistent resources list.
   - [Programs](#programs)
 - [R](#r)
   - [R Packages](#r-packages)
+- [Books](#Books)
 - [Web Apps](#web-apps)
 - [Courses](#courses)
 
@@ -66,6 +67,7 @@ A persistent resources list.
  - [Homepage of Dave Tang](https://davetang.org/)
  - [crazyhottommy/getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
  - [rafalab - HarvardX Biomedical Data Science Open Online Training](https://rafalab.github.io/pages/harvardx.html)
+ - [stevekm/Bioinformatics: Bioinformatics analysis scripts, workflows, general code examples](https://github.com/stevekm/Bioinformatics)
 
 ### Programs
 
@@ -82,8 +84,18 @@ A persistent resources list.
  - http://mafft.cbrc.jp/alignment/server/
  - http://trinotate.github.io/
  - [LncRNA-RNA interaction](http://www.cuilab.cn/lnctar) - LncTar: an efficient tool for predicting RNA targets of lncRNAs.
- 
- ## R
+ - [Sandy](https://galantelab.github.io/sandy/)
+
+### Transcriptomics
+
+ - [Analyzing RNA-seq data with DESeq2](http://www.bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html)
+ - [Count normalization with DESeq2 | Introduction to DGE - ARCHIVED](https://hbctraining.github.io/DGE_workshop/lessons/02_DGE_count_normalization.html)
+ - [Importing transcript abundance with tximport](https://bioconductor.org/packages/release/bioc/vignettes/tximport/inst/doc/tximport.html)
+ - [Welcome to the Weighted Gene Co-Expression Network Page](https://horvath.genetics.ucla.edu/html/CoexpressionNetwork/)
+ - [A guide to creating design matrices for gene expression experiments](https://bioconductor.org/packages/release/workflows/vignettes/RNAseq123/inst/doc/designmatrices.html)
+ - [RPubs - Understanding heatmaps, a tale of two heatmap functions](https://rpubs.com/crazyhottommy/a-tale-of-two-heatmap-functions)
+
+## R
 
  - [A Compendium of Clean Graphs in R](http://shinyapps.org/apps/RGraphCompendium/index.php) - This compendium facilitates the creation of good graphs by presenting a set of concrete examples, ranging from the trivial to the advanced. The graphs can all be reproduced and adjusted by copy-pasting code into the R console. The majority of the plots have been created in base R, but you will encounter some examples in ggplot.
  - [R for Data Science](https://r4ds.had.co.nz/) - This book will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it.
@@ -93,6 +105,7 @@ A persistent resources list.
  - [The Bioconductor 2018 Workshop Compilation](https://bioconductor.github.io/BiocWorkshops/index.html) - Workshop materials are available as a book in html, pdf, and eBook format at https://bioconductor.github.io/BiocWorkshops/. Workshops are organized by level and topic according to numbers, as described below. Every workshop starts with a syllabus that will help you to decide whether it matches your learning goals.
  - [What They Forgot to Teach You About R](https://rstats.wtf/) - 
  - [Descriptive statistics in R](https://statsandr.com/blog/descriptive-statistics-in-r/) - Useful functions.
+ - [Welcome | The tidyverse style guide](https://style.tidyverse.org/)
 
 ### R Packages
 
